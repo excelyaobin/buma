@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ceshi.buma.com.cn/down/bumaicon.png</string>
+					<string>http://ceshi.buma.com.cn/down/bumaicon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ceshi.buma.com.cn/down/bumaicon@2x.png</string>
+					<string>http://ceshi.buma.com.cn/down/bumaicon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
